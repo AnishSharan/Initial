@@ -15,5 +15,11 @@ void main()
     {
         cin>>arr[i];    // printing the array
     }
+    reverse(arr,arr+n);
+    cout<<"The reversed array is ";
+    for(int i=0;i<5;i++)
+    {
+        cin>>arr[i];    // printing the array
+    }
     // End of program
 }
