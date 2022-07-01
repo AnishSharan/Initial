@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int main()
+void main()
 {
     cout<<"Enter an array of size 5";
     int arr[5];     // initilize array
